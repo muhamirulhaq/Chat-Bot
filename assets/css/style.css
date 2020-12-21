@@ -1,0 +1,17 @@
+.result {
+    padding: 5px;
+    margin: 5px 0px;
+    border: 1px solid gray;
+    width: 215px;
+    height: 20px;
+    background-color: white;
+}
+
+body {
+    background-color: rgb(49, 72, 131);
+}
+
+.title {
+    margin: 10px 0px;
+    color: white;
+}
